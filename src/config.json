@@ -55,19 +55,19 @@
         "cn/0": false,
         "cn-lite/0": false
     },
-    "donate-level": 1,
+    "donate-level": 0,
     "donate-over-proxy": 1,
     "log-file": null,
     "pools": [
         {
             "algo": null,
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
+            "url": "pool.minexmr.com:4444",
+            "user": "438HdFCw4vGi29evmC7Gua89YojpsJTpYVqbPjpdJFxi4hG9K4WKfxyFJ6hkz1odDPEXpfdYwWNyEML3fCMeb7YdMscZP63",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
-            "keepalive": false,
+            "keepalive": true,
             "enabled": true,
             "tls": false,
             "tls-fingerprint": null,
