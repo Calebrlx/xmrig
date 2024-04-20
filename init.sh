@@ -1,3 +1,6 @@
+# chmod +x init.sh
+# ./init.sh
+
 sudo apt install cmake
 sudo apt install build-essential
 sudo apt install libuv1-dev
